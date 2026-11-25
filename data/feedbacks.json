@@ -1,0 +1,72 @@
+{
+  "control_0311": {
+    "label": "SamudrACE control_0311",
+    "values": {
+      "EnsoFbSstTaux": 0.007403996046203835,
+      "EnsoFbSstThf": -11.22465092280619,
+      "EnsodSstOce": 2.334736581460476,
+      "EnsoFbSshSst": 19.159572564504753,
+      "EnsoFbTauxSsh": 1.4624073428821802
+    }
+  },
+  "control_0313": {
+    "label": "SamudrACE control_0313",
+    "values": {
+      "EnsoFbSstTaux": 0.007295673672068313,
+      "EnsoFbSstThf": -11.128675760983388,
+      "EnsodSstOce": 2.2877538246842817,
+      "EnsoFbSshSst": 17.89447384534086,
+      "EnsoFbTauxSsh": 1.5994941863386771
+    }
+  },
+  "control_0315": {
+    "label": "SamudrACE control_0315",
+    "values": {
+      "EnsoFbSstTaux": 0.007415607062963293,
+      "EnsoFbSstThf": -11.663859808858877,
+      "EnsodSstOce": 2.4358312719703292,
+      "EnsoFbSshSst": 17.613260018525036,
+      "EnsoFbTauxSsh": 1.5899384234691176
+    }
+  },
+  "control_0317": {
+    "label": "SamudrACE control_0317",
+    "values": {
+      "EnsoFbSstTaux": 0.006835804387518287,
+      "EnsoFbSstThf": -11.523171045593184,
+      "EnsodSstOce": 2.2957573863932077,
+      "EnsoFbSshSst": 17.821907033340242,
+      "EnsoFbTauxSsh": 1.1940124101862843
+    }
+  },
+  "control_0319": {
+    "label": "SamudrACE control_0319",
+    "values": {
+      "EnsoFbSstTaux": 0.007388165671184612,
+      "EnsoFbSstThf": -11.54276301591784,
+      "EnsodSstOce": 2.2333357085587497,
+      "EnsoFbSshSst": 18.306166627540584,
+      "EnsoFbTauxSsh": 1.4123325536172922
+    }
+  },
+  "GFDL-CM4": {
+    "label": "GFDL-CM4 piControl",
+    "values": {
+      "EnsoFbSstTaux": 0.008206759042268924,
+      "EnsoFbSstThf": -8.838335928007599,
+      "EnsodSstOce": 2.0311837820277607,
+      "EnsoFbSshSst": 20.63176885860004,
+      "EnsoFbTauxSsh": 2.027060948712055
+    }
+  },
+  "ORAS5": {
+    "label": "ORAS5 / ERA5",
+    "values": {
+      "EnsoFbSstTaux": 0.012872815676902448,
+      "EnsoFbSstThf": -15.17695773326821,
+      "EnsodSstOce": 2.51316857155895,
+      "EnsoFbSshSst": 12.697960488535855,
+      "EnsoFbTauxSsh": 2.9396290013426993
+    }
+  }
+}
